@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Lavial app, bus ticket application**
 
-- 💬 Ask me about **react, nodeJS**
+- 💬 Ask me about **react, nodeJS, react native**
 
 - 📫 How to reach me **chiril.gorbenco.em@gmail.com**
 
