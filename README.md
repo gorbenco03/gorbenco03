@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chiril</h1>
-<h3 align="center">A passionate develloper from Moldova</h3>
+<h3 align="center">A passionate develloper from Romania</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gorbenco03&label=Profile%20views&color=0e75b6&style=flat" alt="gorbenco03" /> </p>
 
-- 🔭 I’m currently working on **Lavial app, bus ticket application**
+- 🔭 I’m currently working on **DAVI TOUR app, bus ticket application**
 
 - 💬 Ask me about **react, nodeJS, react native**
 
