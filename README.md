@@ -1,29 +1,113 @@
-<h1 align="center">Hi 👋, I'm Chiril</h1>
-<h3 align="center">A passionate develloper from Romania</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gorbenco03&label=Profile%20views&color=0e75b6&style=flat" alt="gorbenco03" /> </p>
+# 👋 Hey, I'm Chiril Gorbenco
 
-- 🔭 I’m currently working on **DAVI TOUR app, bus ticket application**
+### Full Stack Developer | Startup Builder | Tech Enthusiast
 
-- 💬 Ask me about **react, nodeJS, react native**
+[![Website](https://img.shields.io/badge/🌐_gorbenco.com-4A90E2?style=for-the-badge)](https://gorbenco.com)
+[![Email](https://img.shields.io/badge/Email-chiril.gorbenco.em%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chiril.gorbenco.em@gmail.com)
 
-- 📫 How to reach me **chiril.gorbenco.em@gmail.com**
+*Building innovative solutions from Bucharest, Romania* 🇷🇴
 
-- ⚡ Fun fact **I'm speaking 4 languages**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/chiril gorbenco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chiril gorbenco" height="30" width="40" /></a>
-<a href="https://fb.com/chiril gorbenco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chiril gorbenco" height="30" width="40" /></a>
-<a href="https://instagram.com/@kirill_gorbenco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@kirill_gorbenco" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>
+## 🚀 What I'm Building
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gorbenco03&show_icons=true&locale=en&layout=compact" alt="gorbenco03" /></p>
+### **AziCuAzi** - Revolutionizing Last-Mile Delivery
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gorbenco03&show_icons=true&locale=en" alt="gorbenco03" /></p>
+Currently leading development on an innovative same-day delivery platform that's transforming how packages move in Romania. We're making courier services faster, more efficient, and customer-focused.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gorbenco03&theme=dark" alt="gorbenco03" /></p>
+**The Challenge:** Traditional delivery takes days. We do it in hours.
 
+---
+
+## 🛠️ Tech Arsenal
+
+```javascript
+const chiril = {
+    frontend: ['React', 'React Native', 'TypeScript'],
+    backend: ['Node.js', 'Express', 'RESTful APIs'],
+    database: ['MongoDB'],
+    currentFocus: 'Building scalable delivery logistics systems',
+    languages: ['Romanian', 'Russian', 'English', 'Italian']
+};
+```
+
+<div align="center">
+
+### Technologies I Work With
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## 💡 What I Do
+
+- 🎯 **Full Stack Development** - End-to-end application architecture and implementation
+- 📱 **Mobile Apps** - Native experiences with React Native
+- ⚡ **Real-time Systems** - Building responsive, scalable backend solutions
+- 🚀 **Startup Execution** - Rapid prototyping and MVP development
+- 🌍 **Cross-Cultural Communication** - Fluent in 4 languages
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gorbenco03&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gorbenco03&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 My Approach
+
+```
+💭 Think Big → 🏗️ Build Smart → 🚀 Ship Fast → 📈 Iterate
+```
+
+I believe in creating products that solve real problems. Every line of code should serve a purpose, and every feature should delight users.
+
+---
+
+## 🤝 Let's Connect
+
+I'm always excited to collaborate on innovative projects or discuss new ideas!
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/🌐_Portfolio-gorbenco.com-4A90E2?style=for-the-badge)](https://gorbenco.com)
+[![Email](https://img.shields.io/badge/📧_Email-chiril.gorbenco.em%40gmail.com-EA4335?style=for-the-badge)](mailto:chiril.gorbenco.em@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chiril-gorbenco)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Fun Fact
+
+I speak 4 languages and write code in even more! 🌍💻
+
+*"Code is poetry, and I'm still writing my masterpiece."*
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blueviolet&style=for-the-badge)
+
+</div>
