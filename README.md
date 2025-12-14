@@ -7,7 +7,7 @@
 [![Website](https://img.shields.io/badge/🌐_gorbenco.com-4A90E2?style=for-the-badge)](https://gorbenco.com)
 [![Email](https://img.shields.io/badge/Email-chiril.gorbenco.em%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chiril.gorbenco.em@gmail.com)
 
-*Building innovative solutions from Bucharest, Romania* 🇷🇴
+*Building innovative solutions from Timisoara, Romania* 🇷🇴
 
 </div>
 
